@@ -1,0 +1,10 @@
+
+`	java:S112"FDefine and throw a dedicated exception instead of using a generic one.(ÉÈÅüÿÿÿÿ
+{
+java:S1450"`Remove the "preparedStatement" field and declare it as a local variable in the relevant methods.(çƒ„øÿÿÿÿ
+m
+java:S2737."WAdd logic to this catch clause or eliminate it and rethrow the exception automatically.(ö™û
+G
+java:S1874",Remove this use of "Date"; it is deprecated.(î¶ê§ûÿÿÿÿ
+C	java:S108[")Either remove or fill this block of code.(ñ“Š±üÿÿÿÿ
+t	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(Ã¥Õàùÿÿÿÿ

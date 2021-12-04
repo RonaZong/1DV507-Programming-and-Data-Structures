@@ -1,8 +1,0 @@
-
-j
-java:S3008	"TRename this field "COUNTRIES" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¤‚æÐ
-M
-java:S1128"2Remove this unused import 'java.util.Collections'.(¢³ïÓþÿÿÿÿ
-P
-java:S1128":Remove this unused import 'java.util.function.BiFunction'.(ô¿°×
-o	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.( ¦åÉ

@@ -1,0 +1,13 @@
+1) installed java to path so that windows recognize command line commands to java directly 
+2) downloaded the libraries of javafx
+3)made a project in javafx in intellij
+4) added the library of javafx to said project
+5) added VM options to make it know it should use the library
+
+____
+done
+
+you dont really need ot understand everything about it tbh, just know it should be there
+these are all programs that have registered themselves
+but java still deos not do that automatically and it will run fine for now but later on when you do different things
+you might end up wasting a lot of time trying to figure out why its not working and its gonna be tha t
